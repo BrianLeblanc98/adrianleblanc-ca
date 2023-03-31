@@ -7,19 +7,19 @@
     <div class='carousel'>
       <div class='carousel_cards'>
         <img class='card' src="./assets/sunnies.jpg">
-        <img class='card' src="./assets/helmet.jpg">
+        <img class='card' src="./assets/helmett.jpg">
         <img class='card' src="./assets/window.jpg">
         <img class='card' src="./assets/sunnies.jpg">
-        <img class='card' src="./assets/helmet.jpg">
+        <img class='card' src="./assets/helmett.jpg">
         <img class='card' src="./assets/window.jpg">
       </div>
 
       <div class='carousel_cards'>
         <img class='card' src="./assets/sunnies.jpg">
-        <img class='card' src="./assets/helmet.jpg">
+        <img class='card' src="./assets/helmet5.jpg">
         <img class='card' src="./assets/window.jpg">
         <img class='card' src="./assets/sunnies.jpg">
-        <img class='card' src="./assets/helmet.jpg">
+        <img class='card' src="./assets/helmett.jpg">
         <img class='card' src="./assets/window.jpg">
       </div>
 
