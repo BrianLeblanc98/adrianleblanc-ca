@@ -6,21 +6,21 @@
 
     <div class='carousel'>
       <div class='carousel_cards'>
-        <img class='card' src="./assets/sunnies.jpg">
-        <img class='card' src="./assets/helmet.jpg">
-        <img class='card' src="./assets/window.jpg">
-        <img class='card' src="./assets/sunnies.jpg">
-        <img class='card' src="./assets/helmet.jpg">
-        <img class='card' src="./assets/window.jpg">
+        <img class='card' src='./assets/sunnies.jpg'>
+        <img class='card' src='./assets/helmet.jpg'>
+        <img class='card' src='./assets/window.jpg'>
+        <img class='card' src='./assets/sunnies.jpg'>
+        <img class='card' src='./assets/helmet.jpg'>
+        <img class='card' src='./assets/window.jpg'>
       </div>
 
       <div class='carousel_cards'>
-        <img class='card' src="./assets/sunnies.jpg">
-        <img class='card' src="./assets/helmet.jpg">
-        <img class='card' src="./assets/window.jpg">
-        <img class='card' src="./assets/sunnies.jpg">
-        <img class='card' src="./assets/helmet.jpg">
-        <img class='card' src="./assets/window.jpg">
+        <img class='card' src='./assets/sunnies.jpg'>
+        <img class='card' src='./assets/helmet.jpg'>
+        <img class='card' src='./assets/window.jpg'>
+        <img class='card' src='./assets/sunnies.jpg'>
+        <img class='card' src='./assets/helmet.jpg'>
+        <img class='card' src='./assets/window.jpg'>
       </div>
 
     </div>
@@ -105,7 +105,7 @@ body {
     .carousel_cards {
       display: flex;
       position: relative;
-      animation: marquee 100s linear infinite;
+      animation: marquee 60s linear infinite;
       justify-content: space-around;
     }
 
