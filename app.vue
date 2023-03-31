@@ -6,21 +6,21 @@
 
     <div class='carousel'>
       <div class='carousel_cards'>
-        <img class='card' src="/images/sunnies.jpg">
-        <img class='card' src="/images/helmet.jpg">
-        <img class='card' src="/images/window.jpg">
-        <img class='card' src="/images/sunnies.jpg">
-        <img class='card' src="/images/helmet.jpg">
-        <img class='card' src="/images/window.jpg">
+        <img class='card' src="/sunnies.jpg">
+        <img class='card' src="/helmet.jpg">
+        <img class='card' src="/window.jpg">
+        <img class='card' src="/sunnies.jpg">
+        <img class='card' src="/helmet.jpg">
+        <img class='card' src="/window.jpg">
       </div>
 
       <div class='carousel_cards'>
-        <img class='card' src="/images/sunnies.jpg">
-        <img class='card' src="/images/helmet.jpg">
-        <img class='card' src="/images/window.jpg">
-        <img class='card' src="/images/sunnies.jpg">
-        <img class='card' src="/images/helmet.jpg">
-        <img class='card' src="/images/window.jpg">
+        <img class='card' src="/sunnies.jpg">
+        <img class='card' src="/helmet.jpg">
+        <img class='card' src="/window.jpg">
+        <img class='card' src="/sunnies.jpg">
+        <img class='card' src="/helmet.jpg">
+        <img class='card' src="/window.jpg">
       </div>
 
     </div>
