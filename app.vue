@@ -1,7 +1,7 @@
 <template>
   <div class='body'>
     <div class='header'>
-      <h1>Adrian Wilfred LeBlanc</h1>
+      <h1>Adrian Wilfred LeBlan</h1>
     </div>
 
     <div class='carousel'>
