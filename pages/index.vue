@@ -46,6 +46,9 @@
       <p>
         A Funeral Mass was held at Holy Cross Church, 502 Clothier Street West, Kemptville on Monday, November 21st at 11 am, officiated by Rev. Raymond de Souza.  Reception followed in the parish hall.
       </p>
+      <p>
+        A recording of the Funeral Mass can be found <a href='https://www.youtube.com/watch?v=Ytk9PFBuAAw'>here</a>
+      </p>
     </div>
     <div class='footer'></div>
   </div>
