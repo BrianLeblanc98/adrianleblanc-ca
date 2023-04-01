@@ -9,12 +9,20 @@
         <img class='card' src='/images/sunnies.jpg'>
         <img class='card' src='/images/helmet.jpg'>
         <img class='card' src='/images/window.jpg'>
+        <img class='card' src='/images/motorcycle1.jpg'>
+        <img class='card' src='/images/tremblant_entrance.jpg'>
+        <img class='card' src='/images/shop1.jpg'>
+        <img class='card' src='/images/under_car.jpg'>
       </div>
 
       <div class='carousel_cards'>
         <img class='card' src='/images/sunnies.jpg'>
         <img class='card' src='/images/helmet.jpg'>
         <img class='card' src='/images/window.jpg'>
+        <img class='card' src='/images/motorcycle1.jpg'>
+        <img class='card' src='/images/tremblant_entrance.jpg'>
+        <img class='card' src='/images/shop1.jpg'>
+        <img class='card' src='/images/under_car.jpg'>
       </div>
     </div>
 
@@ -55,9 +63,9 @@
 </template>
 
 <style lang='scss'>
-  $carousel_height: 300px;
-  $image_width: 500px;
-  $marquee_length: 30s;
+  $image_height: 300px;
+  $image_width: 400px;
+  $marquee_length: 40s;
 
   body {
     overflow-x: hidden;
@@ -108,8 +116,8 @@
 
       .card {
         display: block;
-        min-width: 500px;
-        height: 300px;
+        min-width: $image_width;
+        height: $image_height;
         margin: 0 1vw;
         object-fit: cover;
         border-radius: 50px;
