@@ -9,20 +9,13 @@
         <img class='card' src='/images/sunnies.jpg'>
         <img class='card' src='/images/helmet.jpg'>
         <img class='card' src='/images/window.jpg'>
-        <img class='card' src='/images/sunnies.jpg'>
-        <img class='card' src='/images/helmet.jpg'>
-        <img class='card' src='/images/window.jpg'>
       </div>
 
       <div class='carousel_cards'>
         <img class='card' src='/images/sunnies.jpg'>
         <img class='card' src='/images/helmet.jpg'>
         <img class='card' src='/images/window.jpg'>
-        <img class='card' src='/images/sunnies.jpg'>
-        <img class='card' src='/images/helmet.jpg'>
-        <img class='card' src='/images/window.jpg'>
       </div>
-
     </div>
 
     <div class='text_content'>
@@ -61,6 +54,7 @@
 <style lang='scss'>
   $carousel_height: 300px;
   $image_width: 500px;
+  $marquee_length: 30s;
 
   body {
     overflow-x: hidden;
@@ -105,7 +99,7 @@
       .carousel_cards {
         display: flex;
         position: relative;
-        animation: marquee 60s linear infinite;
+        animation: marquee $marquee_length linear infinite;
         justify-content: space-around;
       }
 
