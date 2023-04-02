@@ -92,6 +92,11 @@
       padding: 0 3vw 0 3vw;
       font-size: calc(1rem + 0.5vw);
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+      a:link { text-decoration: none; }
+      a:visited { text-decoration: none; }
+      a:hover { text-decoration: none; }
+      a:active { text-decoration: none; }
     }
 
     .footer {
